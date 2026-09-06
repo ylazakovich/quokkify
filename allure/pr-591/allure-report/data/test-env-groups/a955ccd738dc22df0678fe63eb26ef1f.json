@@ -1,0 +1,1 @@
+{"id":"a955ccd738dc22df0678fe63eb26ef1f","fullName":"dev.quokkify.test.TableQueryContractTest.waitsForDelayedRowsAndResolvesRemountedRoot","name":"String-first row lookup waits for delayed rendering and survives table remount","status":"passed","testResultsByEnv":{"integrations-selenide":"8965b847b407a69dfea0c29f0a2a33f1"}}
